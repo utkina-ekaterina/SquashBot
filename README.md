@@ -3,7 +3,7 @@ Squash Bot code - imported from Autocode
 
 ## Introduction
 This is the **Squash Bot** Discord Bot code that was imported from Autocode. This project was done by GitCats team for ElleHacks 2023.
-Our project on DevPost: *https://devpost.com/software/gitcats*
+Our project on DevPost with the demonstration of how Discord Bot works: *https://devpost.com/software/gitcats*
 
 ## Implementation
 We used AutoCode and ChatGPT, as well as JavaScript and Discord.js, to create our AI-powered Squash Bot which can answer questions regarding recycling and sustainability.
