@@ -10,3 +10,4 @@ We used AutoCode and ChatGPT, as well as JavaScript and Discord.js, to create ou
 
 ## What does the bot do
 Our discord bot can provide information about recycling and sustainability. This can include the locations of the nearest recycling facilities, or what items are accepted in their city's recycling bins. 
+Add this bot to your server: *https://discord.com/api/oauth2/authorize?client_id=1076530772439212042&permissions=8&scope=bot*
